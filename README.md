@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/pure-admin/vue-pure-admin.svg)](LICENSE)
 
-**中文** | [English](./README.en-US.md)
+**中文**
 
 ## 介绍
 
