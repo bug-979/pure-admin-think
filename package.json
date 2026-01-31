@@ -90,9 +90,11 @@
     "@types/sortablejs": "^1.15.9",
     "@vitejs/plugin-vue": "^6.0.1",
     "@vitejs/plugin-vue-jsx": "^5.1.1",
+    "@zxcvbn-ts/core": "^3.0.4",
     "boxen": "^8.0.1",
     "code-inspector-plugin": "^1.2.10",
     "cssnano": "^7.1.1",
+    "cropperjs": "^1.6.2",
     "eslint": "^9.38.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-prettier": "^5.5.4",
@@ -126,7 +128,8 @@
     "vite-plugin-router-warn": "^1.0.0",
     "vite-svg-loader": "^5.1.0",
     "vue-eslint-parser": "^10.2.0",
-    "vue-tsc": "^3.1.2"
+    "vue-tsc": "^3.1.2",
+    "vue-json-pretty": "^2.6.0"
   },
   "engines": {
     "node": "^20.19.0 || >=22.13.0",
