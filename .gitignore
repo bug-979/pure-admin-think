@@ -20,3 +20,10 @@ tests/**/coverage/
 *.njsproj
 *.sln
 tsconfig.tsbuildinfo
+
+# AI IDE OR Doc
+.trae
+.claude
+.docs
+CLAUDE.md
+.mcp.json
